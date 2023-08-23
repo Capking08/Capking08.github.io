@@ -1,0 +1,8 @@
+.header {
+    background-image: url("https://i2-prod.mirror.co.uk/incoming/article26383432.ece/ALTERNATES/n310p/1_Presidents-of-Russia-and-Turkey-meet-in-Sochi.jpg"); /* Replace with your image URL */
+    background-size: cover; /* Scale the image to cover the entire header */
+    background-position: center; /* Center the image within the header */
+    color: white; /* Text color to contrast with the background */
+    text-align: center;
+    padding: 2rem;
+}
